@@ -1,2 +1,2 @@
 # Paper-1
-ENHANCING sCO₂ BRAYTON POWER CYCLE EFFICIENCY IN COLD AMBIENT CONDITIONS  THROUGH WORKING FLUID BLENDS
+Enhancing sCO₂ Brayton Power Cycle Efficiency in Cold Ambient Conditions Through Working Fluid Blends
